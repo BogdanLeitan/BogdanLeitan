@@ -1,7 +1,7 @@
 # 👋 Leitan Bogdan
 
 I'm a High School student and an aspiring software engineer. Most of my time is dedicated to **Backend Development**, specifically diving deep into the **Java & Spring Boot** ecosystem. I'm focused on learning how to build solid APIs, manage databases, and understand server-side logic.
-My journey started with a love for hardware and **building PCs**, which is why I still enjoy tinkering with **C and C++** for gamedev in my free time. It helps me stay connected to how the machine actually works while I build higher-level applications.
+My journey started with a love for hardware and **building PCs**, which is why I still enjoy tinkering with C++** for gamedev in my free time. It helps me stay connected to how the machine actually works while I build higher-level applications.
 
 ### Languages and Tools
 <p align="left">
