@@ -4,13 +4,6 @@
 
 ---
 
-### 📊 Social Stats
-<p align="left">
-  <a href="URL_YOUTUBE"><img src="https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
-  <a href="URL_X"><img src="https://img.shields.io/badge/Follow%20on%20X-black?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://github.com/USER_TAU"><img src="https://img.shields.io/github/followers/USER_TAU?label=Follow&style=for-the-badge&color=2ea44f" alt="Github"></a>
-</p>
-
 ---
 
 ### 🧰 Languages and Tools
