@@ -6,7 +6,7 @@ I don't just write code; I love the machines that run it. From **building custom
 
 ### 🧰 Languages and Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" />
