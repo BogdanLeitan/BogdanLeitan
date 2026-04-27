@@ -15,14 +15,23 @@
 
 ### 🧰 Languages and Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tanstack-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/Convex-EE4D2D?style=for-the-badge&logo=convex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo-only.svg" height="40" alt="TanStack" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/convex-dev/convex-logos/main/logos/convex-logo-only.svg" height="40" alt="Convex" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="Cloudflare" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
 </p>
