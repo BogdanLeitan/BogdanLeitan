@@ -1,8 +1,6 @@
-# 👋 Salut, eu sunt [Numele Tău]
+# 👋 Leitan Bogdan
 
-### 🛠 Digital Craftsman | Software Engineer
-
----
+I don't just write code; I love the machines that run it. From **building custom rigs** to diving deep into **low-level systems**, I'm fascinated by the intersection of hardware and software. Whether it's architecting scalable **backends**, crafting immersive **games**, or tinkering with **system-level** performance, I'm always looking for the next challenge.
 
 ---
 
